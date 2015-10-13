@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/pause44.png</file>
+        <file>images/down22.png</file>
+        <file>images/down44.png</file>
+        <file>images/downloading44.png</file>
+        <file>images/downloading66.png</file>
+        <file>images/up22.png</file>
+        <file>images/up44.png</file>
+        <file>images/up66.png</file>
+        <file>images/pause66.png</file>
+        <file>images/down66.png</file>
+        <file>images/stopped66.png</file>
+        <file>images/SplashScreent.png</file>
+        <file>images/SplashScreenb.png</file>
+        <file>images/SplashScreenBack.png</file>
+    </qresource>
+</RCC>
